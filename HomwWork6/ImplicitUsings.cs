@@ -1,0 +1,14 @@
+﻿global using NUnit;
+global using TechTalk.SpecFlow;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Chrome;
+global using OpenQA.Selenium.Support.UI;
+global using SeleniumExtras.WaitHelpers;
+global using SeleniumExtras.PageObjects;
+global using OpenQA.Selenium.Interactions;
+global using NUnit.Framework;
